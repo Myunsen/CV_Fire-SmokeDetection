@@ -1,0 +1,5 @@
+train: E:/practice_NewUnversity/ComputerVision/datasets_firework/train
+val: E:/practice_NewUnversity/ComputerVision/datasets_firework/train
+
+nc: 2
+names: ['fire', 'smoke']
